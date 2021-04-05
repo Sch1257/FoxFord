@@ -55,7 +55,7 @@ for i in range(number_of_tasks):
         print("Ответ неверный. Верный ответ" + " " + str(answer))
 
 
-"".
+
 
 # print the total score
 print(str(score * 100 / (max_ball_for_task * number_of_tasks)) + "% решено верно")
